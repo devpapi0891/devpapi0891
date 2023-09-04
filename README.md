@@ -1,4 +1,4 @@
-# Welcome to BadPAPI's Portfolio
+# Welcome to Devpapi's Portfolio
 
 I'm a passionate web developer dedicated to creating stunning websites and web applications.
 
@@ -8,7 +8,7 @@ I'm a passionate web developer dedicated to creating stunning websites and web a
 
 # About Me
 
-I'm Rafael, a web developer with over 4 years of experience. I love exploring and learning new things in technology.
+I'm Devpapi, a web developer with over 4 years of experience. I love exploring and learning new things in technology.
 
 # Skills My
 
@@ -53,13 +53,13 @@ In my free time, I enjoy playing video games, watching movies, and contributing 
 - [View Project](#!)
 - [GitHub Repository (Private)](https://github.com/devpapi0891/image-color-extractor.git)
 
-# Contact Me
+<!-- # Contact Me
 
 Feel free to get in touch with me. You can use the form below or reach out through email or social media.
 
 Email: [rafael50891.dev@gmail.com](mailto:rafael50891.dev@gmail.com)
 LinkedIn: [View here](#!)
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/yourusername) -->
 
 
 Let's work together to bring your web project to life!
