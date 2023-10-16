@@ -12,8 +12,7 @@ I'm Devpapi, a web developer with over 4 years of experience. I love exploring a
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpapi0891)](https://github.com/devpapi0891/github-readme-stats) -->
-![GitHub top language](https://img.shields.io/github/languages/top/devpapi0891/image-color-extractor)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpapi0891&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpapi0891&langs_count=8)
 
 # Skills
 
