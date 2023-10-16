@@ -10,6 +10,8 @@ I'm a passionate web developer dedicated to creating stunning websites and web a
 
 I'm Devpapi, a web developer with over 4 years of experience. I love exploring and learning new things in technology.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpapi0891)](https://github.com/devpapi0891/github-readme-stats)
+
 # Skills
 
 - HTML, CSS, JavaScript
