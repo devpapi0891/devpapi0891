@@ -16,6 +16,9 @@ I'm Devpapi, a web developer with over 4 years of experience. I love exploring a
 
 # Skills
 
+- Node.js
+- Express JS
+- SvelteKit
 - HTML, CSS, JavaScript
 - Bootstrap, PHP
 - MySQL
@@ -24,7 +27,7 @@ I'm Devpapi, a web developer with over 4 years of experience. I love exploring a
 - Git & GitHub
 - Linux, Windows (OS)
 - Apache2
-- Node.js
+
 
 In my free time, I enjoy playing video games, watching movies, and contributing to open-source projects.
 
