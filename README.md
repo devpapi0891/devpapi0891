@@ -39,7 +39,7 @@ In my free time, I enjoy playing video games, watching movies, and contributing 
 
 - Description: (Personal Project) Developed a fully functional anime streaming site where API is hosted on Linux server.
 - Technologies: Nodejs, Sveltekit, Express (API) Tailwind, Skeleton UI, CSS Javascript, TypeScript, Cloudflare, Vercel.
-- [View Project]([http://seekanime.devpapi.online/home](https://verceltest.devpapi.online/))
+- [View Project](https://verceltest.devpapi.online/)
 - [GitHub Repository (Private)](#!)
 
 ## Project 2: Anime Streaming Site
