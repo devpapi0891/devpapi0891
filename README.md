@@ -36,32 +36,14 @@ In my free time, I enjoy playing video games, watching movies, and contributing 
 
 ## Project 1: Anime Streaming Site (Sveltekit+Express_API+API)
 
-![image](https://github.com/devpapi0891/devpapi0891/assets/97945953/09d1df4e-1658-47d5-be71-bfe9a6e45157)
+![image](https://github.com/devpapi0891/devpapi0891/assets/97945953/f62f62f2-3bdc-4143-8b31-6c533ff2c941)
 
 - Description: (Personal Project) Developed a fully functional anime streaming site where API is hosted on Linux server.
 - Technologies: Nodejs, Sveltekit, Express (API) Tailwind, Skeleton UI, CSS Javascript, TypeScript, Cloudflare, Vercel.
-- [View Project](https://verceltest.devpapi.online/)
+- [View Project](https://seekanime9.websitenews.co/)
 - [GitHub Repository (Private)](#!)
 
-## Project 2: Anime Streaming Site
-
-![Anime Streaming Site](./docs/images/projects/anime-streaming-site.png)
-
-- Description: (Personal Project) Developed a fully functional anime streaming site hosted on a linux server using HTML, CSS, Javacript, PHP, Node.js
-- Technologies: HTML, CSS, Javascript, Bootstrap5, PHP, Apache2, Node.js.
-- [View Project](https://seekanime9.websitenews.co)
-- [GitHub Repository (Private)](#!)
-
-## Project 3: Movie Streaming Site
-
-![Blogging Platform](./docs/images/projects/movie-streaming-site.png)
-
-- Description: (Personal Project) Developed a fully functional movie streaming site hosted on a linux server using HTML, CSS, Javacript, PHP, Node.js
-- Technologies: HTML, CSS, Javascript, Bootstrap5, PHP, Apache2, Node.js.
-- [View Project](#!)
-- [GitHub Repository (Private)](#!)
-
-## Project 4: PHP Image Color Extractor
+## Project 2: PHP Image Color Extractor
 
 ![Blogging Platform](./docs/images/projects/php-image-color-extractor.png)
 
