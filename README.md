@@ -1,6 +1,6 @@
 # Welcome to Devpapi's Portfolio
 
-I'm a passionate web developer dedicated to creating stunning websites and web applications.
+Hi, I'm Rafael Candelaria, a passionate full-stack web developer interested in UI/UX design. With a strong foundation in HTML, CSS, and JavaScript, I love creating intuitive and engaging user experiences.
 
 - [About Me](#about-me)
 - [Skills](#skills)
@@ -32,6 +32,7 @@ I'm Devpapi, a web developer with over 4 years of experience. I love exploring a
 In my free time, I enjoy playing video games, watching movies, and contributing to open-source projects.
 
 # Portfolio
+- [View My Portfolio Website](https://seekanime9.websitenews.co)
 
 ## Project 1: Anime Streaming Site (Sveltekit+Express_API+API)
 
@@ -48,7 +49,7 @@ In my free time, I enjoy playing video games, watching movies, and contributing 
 
 - Description: (Personal Project) Developed a fully functional anime streaming site hosted on a linux server using HTML, CSS, Javacript, PHP, Node.js
 - Technologies: HTML, CSS, Javascript, Bootstrap5, PHP, Apache2, Node.js.
-- [View Project](http://seekanime.devpapi.online/home)
+- [View Project](https://seekanime9.websitenews.co)
 - [GitHub Repository (Private)](#!)
 
 ## Project 3: Movie Streaming Site
@@ -57,7 +58,7 @@ In my free time, I enjoy playing video games, watching movies, and contributing 
 
 - Description: (Personal Project) Developed a fully functional movie streaming site hosted on a linux server using HTML, CSS, Javacript, PHP, Node.js
 - Technologies: HTML, CSS, Javascript, Bootstrap5, PHP, Apache2, Node.js.
-- [View Project](http://seekmovies.devpapi.online/)
+- [View Project](#!)
 - [GitHub Repository (Private)](#!)
 
 ## Project 4: PHP Image Color Extractor
